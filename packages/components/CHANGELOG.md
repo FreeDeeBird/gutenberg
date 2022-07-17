@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Bug Fix
+
+-   Fix clearing of `InputControl`-based components ([#42484](https://github.com/WordPress/gutenberg/pull/42484/)).
+
 ### Enhancements
 
 -   `BorderControl`: Improve labelling, tooltips and DOM structure ([#42348](https://github.com/WordPress/gutenberg/pull/42348/)).
